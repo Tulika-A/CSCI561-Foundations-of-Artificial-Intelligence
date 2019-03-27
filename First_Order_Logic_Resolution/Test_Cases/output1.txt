@@ -1,0 +1,11 @@
+FALSE
+
+TRUE
+
+TRUE
+
+FALSE
+
+FALSE
+
+TRUE
